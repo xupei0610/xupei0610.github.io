@@ -31,7 +31,7 @@
   i18n: google
   gh_user: xupei0610
   repo: GestureRecognition
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/gesture.png
   desc: A real-time HCI system using a webcam and machine learning. It supports 16 kinds (50 for new version) of gestures.
 
 - name: Web-Cam Sample Collector
@@ -48,17 +48,31 @@
   img: /static/assets/img/landing/ruby.png
   desc: A connect-4 game using min-max algorithm for human versus computer.
 
+- name: Backtracking Search
+  i18n: google
+  gh_user: xupei0610
+  repo: Backtracking-Search
+  img: /static/assets/img/landing/python.png
+  desc: A implementation of backtracking search which can be used to solve general CSP. Sudoku, futoshiki and cross math generators are provided for testing.
+
+- name: A* Search
+  i18n: google
+  gh_user: xupei0610
+  repo: Astar-Search
+  img: /static/assets/img/landing/python.png
+  desc: A implementation of A* search which support A* and bidirectional A* using the Manhattan, straight line or squared Eucliean as the heuristic function. A slide puzzle game generator is provided for testing.
+
 - name: K-Means + Ridge Regression for Document Clustering
   i18n: google
   gh_user: xupei0610
   repo: Document-Classifiers
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/kmeans.png
   desc: Document clustering using K-Means or Ridge Regression.
 
 - name: Apriori
   i18n: google
   gh_user: xupei0610
   repo: Apriori
-  img: /static/assets/img/landing/python.png
-  desc: Rule mining using Apriori algorithm and hash tree
+  img: /static/assets/img/landing/apriori.png
+  desc: Association rule mining using Apriori algorithm and hash tree.
 
