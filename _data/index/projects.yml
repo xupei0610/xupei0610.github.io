@@ -18,13 +18,13 @@
 - name: OpenGL 3D Maze Game
   i18n: google
   url: https://github.com/xupei0610/ComputerGraphics-HW/tree/master/hw4
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/maze.png
   desc: A simple 3D maze game.
 
 - name: Ray Tracing
   i18n: google
   url: https://github.com/xupei0610/ComputerGraphics-HW/tree/master/hw3
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/raytracing.png
   desc: Ray Tracing program supporting CUDA.
 
 - name: Real-time Hand Gesture-based Human-Computer Iteraction System
