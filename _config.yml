@@ -26,9 +26,9 @@ author:  # change following line to your infomation.
     - name: icon-cplusplus
     - name: icon-python
   skill_icon2:
-    - name: icon-ruby
-    - name: icon-kde
-  desc: I am current a master student in EE at UMN.  # Describe yourself.
+    - name: icon-gamepad
+    - name: fa-bar-chart
+  desc: I am current a master student in EE at UMN but <br /> focus on various aspects of computer science.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -52,7 +52,7 @@ donation: off  # type 'on'/'off' to choice display donation button at post page 
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+blog_carousel: off  # blog page carousel switch
 
 # scss
 sass:
