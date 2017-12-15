@@ -53,14 +53,14 @@
   gh_user: xupei0610
   repo: Backtracking-Search
   img: /static/assets/img/landing/backtracking.png
-  desc: A implementation of backtracking search which can be used to solve general CSP. Sudoku, futoshiki and cross math generators are provided for testing.
+  desc: An implementation of backtracking search which can be used to solve general CSP. Sudoku, futoshiki and cross math generators are provided for testing.
 
 - name: A* Search
   i18n: google
   gh_user: xupei0610
   repo: Astar-Search
   img: /static/assets/img/landing/python.png
-  desc: A implementation of A* search which support A* and bidirectional A* using the Manhattan, straight line or squared Eucliean as the heuristic function. A slide puzzle game generator is provided for testing.
+  desc: An implementation of A* search which supports A* and bidirectional A* using the Manhattan, straight line or squared Eucliean distance as the heuristic function. A slide puzzle game generator is provided for testing.
 
 - name: K-Means + Ridge Regression for Document Clustering
   i18n: google
