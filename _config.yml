@@ -25,11 +25,9 @@ author:  # change following line to your infomation.
   skill_icon1:
     - name: icon-cplusplus
     - name: icon-python
-    - name: icon-ruby
   skill_icon2:
-    - name: fa-linux
+    - name: icon-ruby
     - name: icon-kde
-    - name: fa-area-chart
   desc: I am current a master student in EE at UMN.  # Describe yourself.
 
 # comment
