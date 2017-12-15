@@ -38,21 +38,21 @@
   i18n: google
   gh_user: xupei0610
   repo: GestureSampleCollector
-  img: /static/assets/img/landing/qt.png
+  img: /static/assets/img/landing/collector.png
   desc: A sample collector using web-cam. It helps me a lot in collecting hand gesture and face image data.
 
 - name: Connect-4
   i18n: google
   gh_user: xupei0610
   repo: MinMax
-  img: /static/assets/img/landing/ruby.png
+  img: /static/assets/img/landing/connect4.png
   desc: A connect-4 game using min-max algorithm for human versus computer.
 
 - name: Backtracking Search
   i18n: google
   gh_user: xupei0610
   repo: Backtracking-Search
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/backtracking.png
   desc: A implementation of backtracking search which can be used to solve general CSP. Sudoku, futoshiki and cross math generators are provided for testing.
 
 - name: A* Search
