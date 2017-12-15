@@ -1,22 +1,64 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+# - name: Jalpc
+#   i18n: jalpc
+#   gh_user: jarrekk
+#   repo: Jalpc
+#   img: /static/assets/img/landing/minmax.png
+#   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+# - name: Python
+#   i18n: cpython
+#   gh_user: python
+#   repo: cpython
+#   img: /static/assets/img/landing/python.png
+#   desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
+- name: OpenGL 3D Maze Game
   i18n: google
-  url: https://google.com
+  url: https://github.com/xupei0610/ComputerGraphics-HW/tree/master/hw4
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: A simple 3D maze game.
+
+- name: Ray Tracing
+  i18n: google
+  url: https://github.com/xupei0610/ComputerGraphics-HW/tree/master/hw3
+  img: /static/assets/img/landing/google.png
+  desc: Ray Tracing program supporting CUDA.
+
+- name: Real-time Hand Gesture-based Human-Computer Iteraction System
+  i18n: google
+  gh_user: xupei0610
+  repo: GestureRecognition
+  img: /static/assets/img/landing/python.png
+  desc: A real-time HCI system using a webcam and machine learning. It supports 16 kinds (50 for new version) of gestures.
+
+- name: Web-Cam Sample Collector
+  i18n: google
+  gh_user: xupei0610
+  repo: GestureSampleCollector
+  img: /static/assets/img/landing/python.png
+  desc: A sample collector using web-cam. It helps me a lot in collecting hand gesture and face image data.
+
+- name: Connect-4
+  i18n: google
+  gh_user: xupei0610
+  repo: MinMax
+  img: /static/assets/img/landing/python.png
+  desc: A connect-4 game using min-max algorithm for human versus computer.
+
+- name: K-Means + Ridge Regression for Document Clustering
+  i18n: google
+  gh_user: xupei0610
+  repo: Document-Classifiers
+  img: /static/assets/img/landing/python.png
+  desc: Document clustering using K-Means or Ridge Regression.
+
+- name: Apriori
+  i18n: google
+  gh_user: xupei0610
+  repo: Apriori
+  img: /static/assets/img/landing/python.png
+  desc: Rule mining using Apriori algorithm and hash tree
+

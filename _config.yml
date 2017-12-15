@@ -26,9 +26,9 @@ author:  # change following line to your infomation.
     - name: icon-cplusplus
     - name: icon-python
   skill_icon2:
-    - name: icon-gamepad
+    - name: fa-gamepad
     - name: fa-bar-chart
-  desc: I am current a master student in EE at UMN but <br /> focus on various aspects of computer science.  # Describe yourself.
+  desc: I am current a master student in EE at UMN but <br /> focus on various aspects of Computer Science.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
