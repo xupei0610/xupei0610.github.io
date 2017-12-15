@@ -38,14 +38,14 @@
   i18n: google
   gh_user: xupei0610
   repo: GestureSampleCollector
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/qt.png
   desc: A sample collector using web-cam. It helps me a lot in collecting hand gesture and face image data.
 
 - name: Connect-4
   i18n: google
   gh_user: xupei0610
   repo: MinMax
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/ruby.png
   desc: A connect-4 game using min-max algorithm for human versus computer.
 
 - name: K-Means + Ridge Regression for Document Clustering
